@@ -6,3 +6,7 @@ history
 393  clear
 394  ls
 395  history
+
+
+git remote -f
+git remote set-url https://@github.com.sandeepect.github
