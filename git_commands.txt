@@ -1,0 +1,8 @@
+git history
+git --help
+history
+391  clear
+392  history
+393  clear
+394  ls
+395  history
